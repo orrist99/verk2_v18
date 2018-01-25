@@ -9,7 +9,7 @@ def job():
            "	<title> job </title>" \
            "</head>" \
            "<body>" \
-           "<h1><a href='http://localhost:8080/jobs/'> j</a> " \
+           "<h1><a href='http://localhost:8080/jobs/'><img src="use/m1.jpg"> </a> " \
            "<br>" \
            "<a href='http://localhost:8080/bio/'> r </a> " \
            "<br>"\
